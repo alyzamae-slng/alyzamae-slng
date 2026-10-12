@@ -8,7 +8,7 @@ I'm continuously learning and exploring how technology can be used to develop pr
 
 - **Programming Languages:** Kotlin, PHP
 - **Web Development:** HTML, CSS, Bootstrap
-- **Database:** MySQL, Firebase
+- **Database:** MySQL, Firebase 
 - **Tools & Platforms:** Android Studio, Figma, XAMPP, Git, GitHub
 
 ### 🚀 Featured Projects
