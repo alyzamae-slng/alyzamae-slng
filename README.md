@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alyza Mae! 👋
 
-<!--
-**alyzamae-slng/alyzamae-slng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior **Bachelor of Science in Computer Science** student at **PHINMA UPang College Urdaneta**, with a growing interest in software development, databases, and information security.
 
-Here are some ideas to get you started:
+I'm continuously learning and exploring how technology can be used to develop practical solutions to real-world problems. Through academic projects and research, I've gained experience working with mobile and web applications, database management, and collaborative software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Programming Languages:** Kotlin, PHP
+- **Web Development:** HTML, CSS, Bootstrap
+- **Database:** MySQL, Firebase
+- **Tools & Platforms:** Android Studio, Figma, XAMPP, Git, GitHub
+
+### 🚀 Featured Projects
+
+- **SafePaws** — A web-based pet adoption management system for managing pet records and adoption requests.
+- **U-Eat** — A university cafeteria ordering system designed to simplify the food ordering process.
+- **PHINMA Connect** — A mobile application concept focused on university-related information and services.
+- **Kidzo** — An educational mobile game designed to make learning more interactive for children.
+- **Ctrl+Alt+Quiz** — A mobile quiz application designed to provide an engaging learning experience.
+
+### 📚 Currently Learning
+
+- Improving my web and mobile application development skills
+- Strengthening my knowledge of databases and information security
+- Exploring new technologies and practical software development approaches
+
+### 🤝 Connect With Me
+
+- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-URL)
+- **Email:** YOUR-EMAIL
+
+I'm always open to learning, collaborating, and exploring opportunities to grow as a Computer Science student and aspiring developer.
+
