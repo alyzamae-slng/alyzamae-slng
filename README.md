@@ -6,7 +6,7 @@ I'm continuously learning and exploring how technology can be used to develop pr
 
 ### 💻 Technical Skills
 
-- **Programming Languages:** Kotlin, PHP
+- **Programming Languages:** Python, Java, Kotlin, PHP
 - **Web Development:** HTML, CSS, Bootstrap
 - **Database:** MySQL, Firebase 
 - **Tools & Platforms:** Android Studio, Figma, XAMPP, Git, GitHub
@@ -23,13 +23,14 @@ I'm continuously learning and exploring how technology can be used to develop pr
 
 - Improving my web and mobile application development skills
 - Strengthening my knowledge of databases and information security
+- Expanding my knowledge of Cybersecurity
 - Exploring new technologies and practical software development approaches
 
 ### 🤝 Connect With Me
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-URL)
-- **Email:** YOUR-EMAIL
+- **GitHub:** https://github.com/alyzamae-slng
+- **LinkedIn:** https://www.linkedin.com/in/alyza-mae-salango
+- **Email:** alyz.salango.up@phinmaed.com │ alyzasalango@gmail.com
 
 I'm always open to learning, collaborating, and exploring opportunities to grow as a Computer Science student and aspiring developer.
 
